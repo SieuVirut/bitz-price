@@ -1,0 +1,5 @@
+/**/node_modules/*
+*.css
+*.png
+*.jpg
+package-lock.json
